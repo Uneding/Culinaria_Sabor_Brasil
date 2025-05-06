@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\atividades\\João_Paulo\\Culinaria_Sabor_Brasil\\Culinaria_Sabor_Brasil.csproj": {}
+    "D:\\João\\Culinaria_Sabor_Brasil\\Culinaria_Sabor_Brasil.csproj": {}
   },
   "projects": {
-    "D:\\atividades\\João_Paulo\\Culinaria_Sabor_Brasil\\Culinaria_Sabor_Brasil.csproj": {
+    "D:\\João\\Culinaria_Sabor_Brasil\\Culinaria_Sabor_Brasil.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\atividades\\João_Paulo\\Culinaria_Sabor_Brasil\\Culinaria_Sabor_Brasil.csproj",
+        "projectUniqueName": "D:\\João\\Culinaria_Sabor_Brasil\\Culinaria_Sabor_Brasil.csproj",
         "projectName": "Culinaria_Sabor_Brasil",
-        "projectPath": "D:\\atividades\\João_Paulo\\Culinaria_Sabor_Brasil\\Culinaria_Sabor_Brasil.csproj",
-        "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "D:\\atividades\\João_Paulo\\Culinaria_Sabor_Brasil\\obj\\",
+        "projectPath": "D:\\João\\Culinaria_Sabor_Brasil\\Culinaria_Sabor_Brasil.csproj",
+        "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
+        "outputPath": "D:\\João\\Culinaria_Sabor_Brasil\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
