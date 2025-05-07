@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pqjY2modQ6E10LsGj8K14kdY6qlw1LXz06ZjvvwuIhA=",
+  "Hash": "hGcTQC8hojUV9V3+6myuqtAL401RXRRfUz+orc8Lqu4=",
   "Source": "Culinaria_Sabor_Brasil",
   "BasePath": "_content/Culinaria_Sabor_Brasil",
   "Mode": "Default",
@@ -34,6 +34,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "D:\\atividades\\João_Paulo\\Culinaria_Sabor_Brasil\\wwwroot\\img\\logo.png",
+      "SourceId": "Culinaria_Sabor_Brasil",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\atividades\\João_Paulo\\Culinaria_Sabor_Brasil\\wwwroot\\",
+      "BasePath": "_content/Culinaria_Sabor_Brasil",
+      "RelativePath": "img/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\logo.png"
     },
     {
       "Identity": "D:\\atividades\\João_Paulo\\Culinaria_Sabor_Brasil\\wwwroot\\img\\teste01.jpg",
