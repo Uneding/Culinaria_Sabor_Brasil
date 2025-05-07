@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Culinaria_Sabor_Brasil")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a458d082ff815e8493ee9ce574b66da6f67d26bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2924c3193ec251c83fdef169d0273b06acf36ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("Culinaria_Sabor_Brasil")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Culinaria_Sabor_Brasil")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

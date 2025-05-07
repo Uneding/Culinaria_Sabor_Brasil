@@ -1,11 +1,15 @@
 {
   "Files": [
     {
-      "Id": "D:\\João\\Culinaria_Sabor_Brasil\\wwwroot\\css\\styles.css",
+      "Id": "D:\\atividades\\João_Paulo\\Culinaria_Sabor_Brasil\\wwwroot\\css\\styles.css",
       "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
-      "Id": "D:\\João\\Culinaria_Sabor_Brasil\\wwwroot\\index.html",
+      "Id": "D:\\atividades\\João_Paulo\\Culinaria_Sabor_Brasil\\wwwroot\\img\\teste01.jpg",
+      "PackagePath": "staticwebassets\\img\\teste01.jpg"
+    },
+    {
+      "Id": "D:\\atividades\\João_Paulo\\Culinaria_Sabor_Brasil\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
