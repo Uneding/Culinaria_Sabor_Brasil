@@ -9,10 +9,9 @@
     <link rel="stylesheet" href="css\styles.css">
 </head>
 <body>
-    <header>
+    <main>
         <!-- Corpo -->
         <div class="container-fluid text-center">
-            
             <div class="row">
                 <!-- Lado esquerdo da página -->
               <div class="col">
@@ -26,7 +25,7 @@
                     <!-- Nome -->
                     <div class="row">
                         <div class="col">
-                            Fulano
+                            Sabor Brasil
                         </div>
                     </div>
                     <!-- Divisão -->
@@ -49,22 +48,20 @@
                             deslike
                         </div>
                     </div>
-
-
                 </div>
               </div> 
               <!-- Centro -->
               <div class="col-6">
                 <div class="row">
-                    <div class="col" style="border-top: 2px solid #C2BEBE; border-left: 2px solid #C2BEBE;border-right: 2px solid #C2BEBE;">
-                        Publicações
+                    <div class="col" style="border: 2px solid #C2BEBE;">
+                        <h1>Publicações</h1>
                     </div>   
                 </div>
                 <div class="row">
                     <div class="col borda">
                         <div class="row" >
                             <div class="col" style="text-align: left;">
-                                Título do prato 01
+                                <h2>Título do prato 01</h2>
                             </div>                       
                         </div>
                         <div class="row">
@@ -109,11 +106,38 @@
                 
               </div>
               <div class="col">
-                <button type="button" href="" class="btn btn-primary" style="background-color: #D97014; border-color: #D97014; width: 80%; position: relative; top: 10%;">Entrar</button>
+                <button type="button" href="" class="btn btn-primary" data-bs-toggle="modal" 
+                data-bs-target="#loginModal" style="background-color: #D97014; border-color: #D97014; width: 80%; position: relative; top: 10%;">Entrar</button>
+                <div class="modal fade" id="loginModal" tabindex="-1" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title">Login</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                <form>
+                                    <div class="mb-3">
+                                        <label for="email" class="form-label">E-mail</label>
+                                        <input type="email" class="form-control" id="email">
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="senha" class="form-label">Senha</label>
+                                        <input type="password" class="form-control" id="senha">
+                                    </div>
+                                    <div style="overflow: hidden;">
+                                        <button type="submit" class="btn btn-dark" style="float: left; background-color: #fff; border: 2px solid #D97014; color: #0000;">Cancelar</button>
+                                        <button type="submit" class="btn btn-primary" style="float: right; background-color: #D97014; border: 2px solid #D97014;">Entrar</button>
+                                    </div>                                  
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
               </div>
-            </div>
+            </div>           
           </div>   
-    </header>
+    </main>
     <footer>
         text
        
